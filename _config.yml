@@ -1,0 +1,4 @@
+auto:        true
+pygments:    false
+lsi:         true
+permalink:   /:year/:month/:day/:title.html
