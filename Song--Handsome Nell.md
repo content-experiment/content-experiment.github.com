@@ -41,4 +41,4 @@ That polishes the dart.
 'Tis this in Nelly pleases me,  
 'Tis this enchants my soul;  
 For absolutely in my breast  
-She reigns without control.
+She reigns without control..
